@@ -9,10 +9,7 @@
 <hr>
 </div>
 
-<div align="center"><br><br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LinkOrleans&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="LinkOrleans github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkOrleans&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
-</div><br>
+![Lincoln Palmeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkOrleans&show_icons=true&theme=midnight-purple)
 
 ### Technologies and Tools: <hr>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
