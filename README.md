@@ -1,6 +1,6 @@
-<div>
-<img align="center" src="./assets/img/Github Image.png">
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Lincoln+Palmeira;I'm+a+Full+Stack+Developer;I'm+from+Brazil;)](https://git.io/typing-svg)
 
 <div>
 <br><br>
@@ -10,6 +10,9 @@
 </div>
 
 ![Lincoln Palmeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkOrleans&show_icons=true&theme=midnight-purple)
+<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkOrleans&layout=compact&langs_count=7&theme=midnight-purple"/>
+
 
 ### Technologies and Tools: <hr>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
