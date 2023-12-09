@@ -9,8 +9,9 @@
 <hr>
 </div>
 
+<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" min-width="300px" max-width="300px" width="320px" align="right">
+
 ![Lincoln Palmeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkOrleans&show_icons=true&theme=midnight-purple)
-<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkOrleans&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 
